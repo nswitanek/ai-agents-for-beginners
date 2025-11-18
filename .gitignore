@@ -411,3 +411,9 @@ FodyWeavers.xsd
 
 # Ignore backup files
 *-backup.ipynb
+
+# UV Python package manager
+uv.lock
+.python-version
+pyproject.toml
+main.py
